@@ -1,0 +1,11 @@
+#cash {
+  margin-top: 50px;
+  
+  position: relative;
+  height: 694px;
+  display: flex;
+  width: 1366px;
+  justify-content: center;
+  align-items: center;
+  background: var(--light-white, #FFF);
+}
